@@ -2,10 +2,10 @@
 <level>
   <owner>Fistachka</owner>
   <repo>tonic-harmon</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="tonic"/>
   <readme>
-    <ru>a6e450973b20c18123a5ab158a41be1a337be866f6fe602919338fbb76769252</ru>
+    <ru>e544700394203e3c577a50e91cc927f5d0cca6768852ea6420c576560498b7a3</ru>
     <en>bea4cf27b97ca127467d77dbd28250269f69306202ec1697e29ecc8b0da274ba</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
