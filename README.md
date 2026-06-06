@@ -17,4 +17,7 @@ Since sounds are taken sequentially in a melodic interval, an ascending or desce
 Source: https://www.music-theory.ru/index.php?option=com_content&view=article&id=22&Itemid=167&lang=ru
 
 <br><br>
+![4](https://github.com/user-attachments/assets/5ac85e31-06ce-45ab-838d-0d7a025165b9)
+![3](https://github.com/user-attachments/assets/009569c7-32af-4ec0-835e-545baf22ed35)
+
 
